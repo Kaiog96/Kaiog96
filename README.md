@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm a Computer Science PhD Student -- ICMC USP</h1>
-<h3 align="center"> MSc in Computer Science -- ICMC USP</h3>
-<h3 align="center">Interested in Blockchain, Machine & Deep Learning, and Security & Privacy</h3>
+<h1 align="center">Hi there 👋, I'm a Computer Science Postgraduate -- UNICIV </h1>
+<h3 align="center"> Bachelor Degree in Computer Science -- UENP</h3>
+<h3 align="center">Interested in Web development & Ethical Hacking and CyberSecurity </h3>
 
 - 🔭 I’m currently working on ...
 
