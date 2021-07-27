@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm a Computer Science Postgraduate -- UNICIV </h1>
+<h1 align="center">Hi there 👋, I'm a Computer Science Postgraduate Student -- UNICIV </h1>
 <h3 align="center"> Bachelor Degree in Computer Science -- UENP</h3>
 <h3 align="center">Interested in Web development & Ethical Hacking and CyberSecurity </h3>
 
