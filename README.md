@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning about **Adversarial Learning techniques, Deep Learning, and React**
+- 🌱 I’m currently learning about **Ethical Hacking and CyberSecurity and Clean Code**
 
 - 💬 Ask me about **Ethical Hacking and CyberSecurity, .Net, JS**
 
