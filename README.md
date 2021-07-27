@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning about **Adversarial Learning techniques, Deep Learning, and React**
 
-- 💬 Ask me about **Blockchain, Security & Privacy, Machine Learning, Golang, and Python**
+- 💬 Ask me about **Ethical Hacking and CyberSecurity, .Net, JS**
 
-- 📫 How to reach me **erjulioaguiar@usp.br**
+- 📫 How to reach me **contatokaiogarcia@gmail.com**
 
-- ⚡ Fun fact **In my free time I enjoy playing video games, football, reading, and running.**
+- ⚡ Fun fact **In my free time I enjoy playing video games, study about new web development technologies and clean code.**
 
 
 
@@ -21,6 +21,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/erjulioaguiar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="erjulioaguiar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/erjulioaguiar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="erjulioaguiar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaio-aime-garcia-7733a41a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="erjulioaguiar" height="30" width="40" /></a>
 </p>
