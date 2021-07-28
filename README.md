@@ -2,7 +2,7 @@
 <h3 align="center"> Bachelor Degree in Computer Science -- UENP</h3>
 <h3 align="center">Interested in Web development & Ethical Hacking and CyberSecurity </h3>
 
-- 🔭 I’m currently working on ...
+- 🔭 I'm currently working on web development at Employer company
 
 - 🌱 I’m currently learning about **Ethical Hacking and CyberSecurity and Clean Code**
 
