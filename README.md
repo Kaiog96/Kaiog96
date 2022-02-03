@@ -13,9 +13,7 @@
 - ⚡ Fun fact **In my free time I enjoy playing video games, study about new web development technologies and clean code.**
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaiog96&show_icons=true" alt="Kaiog96" />
-</p>
+
 
 
 
