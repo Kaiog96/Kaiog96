@@ -1,10 +1,11 @@
-<h1 align="center">Hi there 👋, I'm a Computer Science Postgraduate Student -- UNICIV </h1>
+<h1 align="center">Hi there 👋, I'm a programmer back-end</h1>
+<h2 align="center"> Postgraduate in Ethical Hacking and CyberSecurity -- UNICIV </h2>
 <h3 align="center"> Bachelor Degree in Computer Science -- UENP</h3>
 <h3 align="center">Interested in Web development & Ethical Hacking and CyberSecurity </h3>
 
 - 🔭 I'm currently working on web development at Employer company
 
-- 🌱 I’m currently learning about **Ethical Hacking and CyberSecurity and Clean Code**
+- 🌱 I’m currently learning about **The financial market and Clean Code**
 
 - 💬 Ask me about **Ethical Hacking and CyberSecurity, .Net, JS**
 
