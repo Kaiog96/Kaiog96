@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm a programmer back-end</h1>
 <h3 align="center"> Postgraduate in Ethical Hacking and CyberSecurity -- UNICIV </h3>
-<h3 align="center"> Bachelor Degree in Computer Science -- UENP</h3>
+<h3 align="center"> Bachelor Degree in Computer Science -- UENP </h3>
 <h3 align="center">Interested in Web development & Ethical Hacking and CyberSecurity </h3>
 
 - 🔭 I'm currently working on web development at Employer company
